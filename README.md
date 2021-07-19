@@ -1,4 +1,4 @@
-# vuex-example
+# showcase for textbooks
 
 ## Project setup
 ```
